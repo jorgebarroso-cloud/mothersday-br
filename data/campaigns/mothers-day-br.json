@@ -1,0 +1,36 @@
+{
+  "slug": "mothers-day-br",
+  "locale": "pt-BR",
+  "domain": "https://celebrardiadasmaes.com.br",
+  "feverBase": "https://feverup.com",
+  "feverPathTemplate": "https://feverup.com/pt/{city}/dia-das-maes",
+  "feverCandlelightPathTemplate": "https://feverup.com/pt/{city}/candlelight-{city}",
+  "outputDataFile": "data/fever-plans-br.json",
+  "cities": [
+    {
+      "slug": "sao-paulo",
+      "name": "São Paulo"
+    },
+    {
+      "slug": "rio-de-janeiro",
+      "name": "Rio de Janeiro"
+    }
+  ],
+  "maxExperiencesPerCity": 24,
+  "maxGiftCardsPerCity": 12,
+  "campaignName": "Dia das Mães",
+  "countryLabel": "Brasil",
+  "siteName": "Celebrar Dia das Mães",
+  "countdownType": "none",
+  "copy": {
+    "countdownMessage": "Faltam {days} dias para o Dia das Mães!",
+    "heroCta": "Ver experiências do Dia das Mães",
+    "seeAllOnFever": "Ver tudo no Fever",
+    "breadcrumbHome": "Brasil",
+    "heroTitleHome": "Dia das Mães 2026 — Presentes, ideias e experiências",
+    "heroTitleCity": "Dia das Mães em {city} — Presentes e ideias",
+    "heroImageAltHome": "Mãe e filha no chá — presente experiência Dia das Mães",
+    "heroImageAltCity": "Mãe e filha — experiência Dia das Mães em {city}",
+    "heroImageAltSubpage": "Mãe e filha — Dia das Mães {topic} em {city}"
+  }
+}
